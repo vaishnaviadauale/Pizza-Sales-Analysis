@@ -23,22 +23,6 @@ MySQL (or any other SQL database): As the database management system for storing
 
 Canva : used canva for making ppt.
 
-# The analysis provides the following insights:
+# Result
 
-Total Number of Orders: The cumulative count of all orders placed.
-
-Total Revenue: The total income generated from all orders.
-
-Highest-Priced Pizza: The most expensive pizza available.
-
-Most Common Pizza Size: The pizza size that appears most frequently in orders.
-
-Top Pizza Types by Quantity and Revenue: The pizza types that are ordered the most and generate the highest revenue.
-
-Distribution of Orders by Hour: Insights into peak hours for pizza orders.
-
-Average Daily Orders: The average number of orders placed per day.
-
-Revenue Contributions by Pizza Type and Category: Breakdown of revenue by different pizza types and categories.
-
-
+The analysis provides insights such as the total number of orders, total revenue, highest-priced pizza, most common pizza size, and top pizza types by quantity and revenue. Additionally, it reveals the distribution of orders by hour, average daily orders, and revenue contributions by pizza type and category. These insights help in strategic decision-making to enhance the restaurant's operations and profitability.
